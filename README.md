@@ -29,4 +29,4 @@
 - Tampermonkey
 - ES6 Support
 
-it
+### Userscript: [CLICK HERE](https://github.com/eazycheats/cheat/raw/master/userscript.user.js)
