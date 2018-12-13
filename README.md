@@ -1,4 +1,4 @@
-# Krunker.io Hack
+# Krunker.io Cheat
 
 - EazyCheats
 - Everyone on Github
