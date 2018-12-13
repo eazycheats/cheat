@@ -3,7 +3,7 @@
 // @description  Krunker.io Cheat
 // @updateURL    https://github.com/eazycheats/cheat/raw/master/userscript.user.js
 // @downloadURL  https://github.com/eazycheats/cheat/raw/master/userscript.user.js
-// @version      3.13
+// @version      3.14
 // @author       EazyCheats
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?server=.+)$/
 // @grant        GM_xmlhttpRequest
