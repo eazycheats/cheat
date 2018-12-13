@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Krunker.io cheat By EazyCheats
 // @description  Krunker.io Cheat
-// @updateURL    https://github.com/xF4b3r/krunker/raw/master/userscript.user.js
-// @downloadURL  https://github.com/xF4b3r/krunker/raw/master/userscript.user.js
+// @updateURL    https://github.com/eazycheats/cheat/raw/master/userscript.user.js
+// @downloadURL  https://github.com/eazycheats/cheat/raw/master/userscript.user.js
 // @version      3.13
 // @author       EazyCheats
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?server=.+)$/
